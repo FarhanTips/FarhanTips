@@ -8,22 +8,16 @@ A passionate problem solver from Bangladesh.
 
 ## 👨‍💻 About Me:
 
-- 🌱 I’m currently learning [Technology/Programming Language]
+- 🌱 I’m currently learning Java
 - 💬 Ask me about Python
-- 📫 How to reach me **farhanakbor02@.com**
+- 📫 How to reach me **farhanakbor02@gmail.com**
 - ⚡ Fun fact: [Some interesting fact about you]
 
-## 🏆 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+## Connect with me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-username/)
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat)
-
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/YourUsername)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
 
 
 
