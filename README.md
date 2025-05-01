@@ -5,9 +5,9 @@
 ## 👨‍💻 About Me:
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python or Java**
 
 - 📫 How to reach me **farhanakbor02@gmail.com**
 
