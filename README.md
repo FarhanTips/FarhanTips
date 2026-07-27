@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Selenium**
 
-- 💬 Ask me about **Python or Java**
+- 💬 Ask me about **Python, Java or JavaScript**
 
 - 📫 How to reach me **farhanakbor02@gmail.com**
 
