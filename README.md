@@ -53,7 +53,7 @@
 ## 📊 <b>GITHUB CONTRIBUTIONS & STATISTICS:</b>
 
 ### GitHub Contributions:
-![GitHub Snake](https://raw.githubusercontent.com/FarhanTips/FarhanTips/output/github-snake.svg)
+![Snake Grid](https://github.com/FarhanTips/contribution-snake/blob/output/grid.svg)
 
 ### Repository Stats & Streak:
 <a href="https://github.com/FarhanTips"><img src="https://streak-stats.demolab.com/?user=FarhanTips&theme=swift&hide_border=true&ring=FF6B00&fire=FF4500" alt="GitHub Streak" /></a>
