@@ -5,7 +5,7 @@
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose and PostgreSQL** for the backend.
 - 🛠️ I’m currently learning **Playwright**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 📫 Feel free to reach me out **[Email](farhanakbor02@gmail.com)**
+- 📫 Feel free to reach me out **[Email](mailto:farhanakbor02@gmail.com)**
 - ⚡ Fun fact **Don’t procrastinate like me – push your work to GitHub early and often! 😅🚀**
 ---
 <br/>
