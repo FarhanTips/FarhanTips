@@ -50,17 +50,12 @@
 <br/>
 
 <!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+## 📊 <b>GITHUB CONTRIBUTIONS & STATISTICS:</b>
 
 ### GitHub Contributions:
 ![GitHub Snake](https://raw.githubusercontent.com/FarhanTips/FarhanTips/output/github-snake.svg)
 
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=FarhanTips&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanTips&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
-
 ### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=FarhanTips&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=FarhanTips" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/FarhanTips"><img src="https://streak-stats.demolab.com/?user=FarhanTips&theme=swift&hide_border=true&ring=FF6B00&fire=FF4500" alt="GitHub Streak" /></a>
 
 <br/>
