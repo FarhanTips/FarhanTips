@@ -7,6 +7,11 @@
 </div>
 
 <br/>
+
+
+
+
+
 <!--- about --->
 - 👋 Hi, I’m **[@FarhanTips](https://github.com/FarhanTips)**
 - 🖥️ I’m currently working on **React.js, Next.js and Typescript** for frontend development.
