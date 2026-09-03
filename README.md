@@ -20,7 +20,7 @@
   <p align="left">
     <a href="https://www.linkedin.com/in/farhan-akbor-khan-589735336/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Farhan Akbor Khan" height="30" width="40" /></a>
     <a href="https://discord.com/users/farhan_akbor_khan" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="farhan_akbor_khan" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/farhanakborkhan.khan/" target="_blank" style="text-decoration:none; display:inline-block;"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" height="30" width="30" /></a>
+    <a href="https://www.facebook.com/farhanakborkhan.khan/" target="_blank" style="text-decoration:none; display:inline-block;"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="30" /></a>
   </p>
 </div>
 
